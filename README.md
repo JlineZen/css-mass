@@ -14,4 +14,4 @@
   *注意：改变的只是内联块内容的顺序，而不改变行内元素的顺序，比如文字方向不改变。*
 
   + 什么是内联块元素？  
-    就是display: inline-block的元素,比如 <img>, <object>, <vedio>, <button>, <input>等元素；
+    就是display: inline-block的元素,比如 img, object, vedio, button, input等元素；
