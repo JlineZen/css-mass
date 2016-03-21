@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+/**----- direction ------*/
+.ltr {
+  direction: ltr;
+}
+.rtl {
+  direction: rtl;
+}
